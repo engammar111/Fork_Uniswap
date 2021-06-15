@@ -2,6 +2,4 @@
 
 # for more information visit https://app.sushiswap.org
 
-## License
 
-MIT
